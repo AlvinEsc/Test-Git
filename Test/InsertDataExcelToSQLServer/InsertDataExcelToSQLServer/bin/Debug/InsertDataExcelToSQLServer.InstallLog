@@ -1,0 +1,878 @@
+﻿Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Rolling back assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Restoring event log to previous state for source MyInsertDataExcelToSQLServerService.
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Attempt to stop service MyInsertDataExcelToSQLServerService.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Attempt to stop service MyInsertDataExcelToSQLServerService.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Attempt to stop service MyInsertDataExcelToSQLServerService.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Attempt to stop service MyInsertDataExcelToSQLServerService.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Attempt to stop service MyInsertDataExcelToSQLServerService.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+Removing EventLog source MyInsertDataExcelToSQLServerService.
+Service MyInsertDataExcelToSQLServerService is being removed from the system...
+Service MyInsertDataExcelToSQLServerService was successfully removed from the system.
+Installing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
+Installing service MyInsertDataExcelToSQLServerService...
+Service MyInsertDataExcelToSQLServerService has been successfully installed.
+Creating EventLog source MyInsertDataExcelToSQLServerService in log Application...
+Committing assembly 'D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.InstallLog
+   assemblypath = D:\KerjaPraktek\MicrosoftVisualStudio\LatihanCSharp\InsertDataExcelToSQLServer\InsertDataExcelToSQLServer\bin\Debug\InsertDataExcelToSQLServer.exe
+   logtoconsole = 
